@@ -2,6 +2,7 @@
 
 # STEPS IN PROJECT
 Requirement Gathering
+
 Stakeholders in Project
 Raw Data Overview
 Connecting Data with Power Bl
