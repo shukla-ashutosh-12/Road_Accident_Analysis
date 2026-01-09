@@ -59,7 +59,6 @@ The dataset includes the following key attributes:
 * **Two-wheelers** are involved in a significant portion of accidents
 * Poor **road and weather conditions** increase accident severity
 
----
 
 ## 📈 Business Impact
 
@@ -67,8 +66,6 @@ The dataset includes the following key attributes:
 * Assists in planning **traffic control & safety measures**
 * Improves awareness of **high-risk factors**
 * Supports **data-driven decision making**
-
----
 
 ## 🧠 Learning Outcomes
 
