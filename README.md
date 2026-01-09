@@ -14,7 +14,6 @@ The **Road Accident Analysis Dashboard** is a data-driven visualization project 
 * Study the impact of time, weather, and road conditions
 * Support data-backed road safety planning and policy decisions
 
----
 
 ## 📊 Dashboard Features
 
