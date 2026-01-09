@@ -83,7 +83,6 @@ The dataset includes the following key attributes:
 3. Use slicers and filters to explore insights
 4. Analyze trends and patterns interactively
 
----
 
 ## 📌 Future Enhancements
 
