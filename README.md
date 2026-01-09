@@ -5,7 +5,6 @@
 
 The **Road Accident Analysis Dashboard** is a data-driven visualization project designed to analyze road accident data and uncover critical insights related to accident frequency, severity, location, time, and contributing factors. The dashboard helps stakeholders, policymakers, and researchers understand accident patterns and make informed decisions to improve road safety.
 
----
 
 ## 🎯 Objectives
 
@@ -27,7 +26,6 @@ The **Road Accident Analysis Dashboard** is a data-driven visualization project 
 * **Vehicle Type & Road Condition Impact**
 * **Interactive Filters for Dynamic Exploration**
 
----
 
 ## 🛠 Tools & Technologies Used
 
